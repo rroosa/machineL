@@ -1,0 +1,26 @@
+{
+  "embeddingNet": "LeNet",
+  "2": {
+    "hyper": {
+      "lr": 33,
+      "momentum": 0.9
+    },
+    "numepoche": 2,
+    "accuracyTrain": {
+      "accuracyTrain": "ValoreAcc"
+    }
+  },
+  "3": {
+    "accuracy": {
+      "accuracyTrain": "ValoreAcc"
+    },
+    "timeTrain": {
+      "timeTrain": "ValoreTime"
+    }
+  },
+  "1": {
+    "time": {
+      "timeTrain": "ValoreTime"
+    }
+  }
+}
